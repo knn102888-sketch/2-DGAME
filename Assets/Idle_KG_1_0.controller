@@ -144,7 +144,7 @@ AnimatorController:
   m_Name: Idle_KG_1_0
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Blend
+  - m_Name: "\u901F\u5EA6"
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -198,7 +198,7 @@ AnimatorStateMachine:
     m_Position: {x: 480, y: 140, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1886765000605933735}
-    m_Position: {x: 320, y: 260, z: 0}
+    m_Position: {x: 320, y: 270, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: -7513005179309695063}
@@ -343,7 +343,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
-  m_BlendParameter: Blend
+  m_BlendParameter: "\u901F\u5EA6"
   m_BlendParameterY: Blend
   m_MinThreshold: 0
   m_MaxThreshold: 1
